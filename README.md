@@ -9,6 +9,7 @@ I've started coding 7 years ago. Since then i have been building my skillset and
 *   🌍  I'm based in Cologne
 *   ✉️  You can contact me [here](mailto:bela-noe@web.de)
 *   🚀  I'm currently working on [ELGIO](http://elgio.de)
+        and on various other projects. 
 *   🧠  I'm learning React
 *   👨‍💻  [Portfolio Website](https://bela-noe.de)
 *   ### Skills 
