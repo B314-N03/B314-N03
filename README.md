@@ -7,7 +7,7 @@ Developer
 I've started coding 7 years ago. Since then i have been building my skillset and created many cool projects.
 
 *   🌍  I'm based in Cologne
-*   ✉️  You can contact me at [bela-noe@web.de](mailto:bela-noe@web.de)
+*   ✉️  You can contact me [here](mailto:bela-noe@web.de)
 *   🚀  I'm currently working on [ELGIO](http://elgio.de)
 *   🧠  I'm learning React
 *   👨‍💻  [Portfolio Website](https://bela-noe.de)
