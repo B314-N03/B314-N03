@@ -8,9 +8,9 @@ I've started coding 7 years ago. Since then i have been building my skillset and
 
 *   🌍  I'm based in Cologne
 *   ✉️  You can contact me [here](mailto:bela-noe@web.de)
-*   🚀  I'm currently working on [ELGIO](http://elgio.de)
-        and on various other projects. 
-*   🧠  I'm learning React
+*   🚀  I'm currently working at [Scopevisio](https://scopevisio.com) as a Frontend Engineer
+        and on various other projects on the side. 
+*   🧠  I'm learning TypeScript
 *   👨‍💻  [Portfolio Website](https://www.bela-noe.de)
 *   ### Skills 
 <p align="left">
